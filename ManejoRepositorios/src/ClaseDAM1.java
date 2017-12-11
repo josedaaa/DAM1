@@ -3,7 +3,7 @@ public class ClaseDAM1 {
 
 	@SuppressWarnings("unused")
 	public static void main(String[] args) {
-		// TODO Cada estudiante añadirá su nombre.
+		// TODO Cada estudiante aÃ±adirÃ¡ su nombre.
 		String profesor = "Luis de Blas";
 
 		String al01_SergioAmor = "";
@@ -17,7 +17,7 @@ public class ClaseDAM1 {
 		String al11_VictorDiaz = "";
 		String al12_VictorFernandez = "";
 		String al13_MarioFernandez = "";
-		String al16_JonatanBordetas = "";
+		String al16_JonatanBordetas = "Jonathan Gómez Bordetas";
 		String al17_AnaGonzalez = "Ana Maria Gonzalez Rodriguez";
 		String al18_IkerIriondo = "";
 		String al19_DavidMartinez = "";

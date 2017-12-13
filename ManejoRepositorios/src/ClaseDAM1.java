@@ -9,7 +9,7 @@ public class ClaseDAM1 {
 		String al01_SergioAmor = "";
 		String al02_JorgeArroy = "";
 		String al03_ManuelBoo = "";
-		String al04_JoseDaBuenaga = "";
+		String al04_JoseDaBuenaga = "Jose Daniel Buenaga Garcia";
 		String al05_DavidCicero = "";
 		String al06_NinaCimadevilla = "";
 		String al07_DanielDehesa = "";
